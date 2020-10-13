@@ -75,8 +75,8 @@ currentTime = currentTime.startOf("hour");
 
         //This line of code below is to allow developer to lock the input field
         //after time has passed
-        //$(".form" + setTime).prop("disabled", true);
-        //$(".saveBtn").remove();
+        // $(".form" + setTime).prop("disabled", true);
+        // $(".saveBtn").remove();
     }
     else if (currentTime.isBefore(timeCheck)) {
         $(".form" + setTime).addClass("future");

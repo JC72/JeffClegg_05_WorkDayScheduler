@@ -21,24 +21,28 @@ This project has been deployed to my Personal GitHub Page. To get this project u
     * The user will be able to put tasks into the input field
     * The user then can save the information and store it
 
-    <!-- ![Start Page](https://github.com/JC72/JeffClegg_04_CodeQuiz/blob/main/Assets/images/ScreenShots/StartPage.png) -->
+    ![Start Page](https://github.com/JC72/JeffClegg_05_WorkDayScheduler/blob/main/Assets/images/ScreenShots/Start.png)
 
 * The input fields are colored mark based on the time of day.
     * Red is for the present, Green is for the future & Grey is for the past.
     * User can input their events into the input box.
+
+    ![InPutting](https://github.com/JC72/JeffClegg_05_WorkDayScheduler/blob/main/Assets/images/ScreenShots/inputing.png)
+
     * Bonus items I added:
         1. was the line-through text decoration in the style.css
+
+        ![ColorCode](https://github.com/JC72/JeffClegg_05_WorkDayScheduler/blob/main/Assets/images/ScreenShots/colorcode.png)
+
         2. A set of code on lines 75 through 78 which if activated would lock the input field and remove the save button.  Did not activate it because it was not part of the assignment but I tested it and does work.
 
-
-    <!-- ![First Page](https://github.com/JC72/JeffClegg_04_CodeQuiz/blob/main/Assets/images/ScreenShots/FirstQuestion.png) -->
+    ![InPutting](https://github.com/JC72/JeffClegg_05_WorkDayScheduler/blob/main/Assets/images/ScreenShots/locknosave.png)
 
 * Scheduler after Refresh
     * Final product once page is refreshed will show that the event has been saved.
     * Then Returned from local storage to its appropriate timeblock.
 
-    <!-- ![Final Page](https://github.com/JC72/JeffClegg_04_CodeQuiz/blob/main/Assets/images/ScreenShots/EndPage.png) -->
-
+    ![InPutting](https://github.com/JC72/JeffClegg_05_WorkDayScheduler/blob/main/Assets/images/ScreenShots/Refresh.png)
 
 ### Project Requirements: 
 
