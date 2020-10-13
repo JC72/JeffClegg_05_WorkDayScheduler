@@ -9,14 +9,14 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 ## Links
 
 * [GitHub Repository](https://github.com/JC72/JeffClegg_05_WorkDayScheduler)
-* [Deployed GitHub IO](https://jc72.github.io/JeffClegg_05_/WorkDayScheduler/) 
+* [Deployed GitHub IO](https://jc72.github.io/JeffClegg_05_WorkDayScheduler/) 
 
 ### Project Overview
 * HTML, CSS, jQuery (using Moment.js) documents create a scheduler that allow a user to create one day schedule for the current day and store it in local storage.
 * This project emphasizes the use of using jQuert (with Moment.js) to make dynamic changes to an HMTL & CSS document.
 
 ### This assignment contains the following features: 
-* The Scheduler page with input groups from 6:00 am to 6 pm
+* The Scheduler page with input groups from 6:00 am to 6:00 pm
     * I did this to allow those that work non standard hours to use this as well
     * The user will be able to put tasks into the input field
     * The user then can save the information and store it
