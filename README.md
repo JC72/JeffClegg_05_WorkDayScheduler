@@ -66,15 +66,15 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 > Open in browser by way of Deployed IO link
 
 ### Contains: 
-* One HTML Pages
+* One HTML Page
     * Index.html 
 
-* One CSS Pages
+* One CSS Page
     * Styles.css
         * Contains styling for html user input features
         
-* OnewJavascript Pages
-        * Contains:
+* One Javascript Page
+    * Contains:
         * moment(); to pull in the date and time 
         * Variables, including arrays and value placeholders
         * Event listener & function
