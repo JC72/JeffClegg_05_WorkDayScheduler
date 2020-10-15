@@ -36,7 +36,7 @@ textarea{
   background-color: white;
   font-weight: bold;
 }
-
+/*styling for the row div*/
 .row {
   white-space: pre-wrap;
   height: 50px;
@@ -46,6 +46,7 @@ textarea{
 /*styling for form control input box*/
 .form-control {
   height: -webkit-fill-available;
+  font-size: 14px
 }
 
 .hour {
